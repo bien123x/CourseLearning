@@ -1,0 +1,16 @@
+E:\TTS\ProjectTTS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Application.deps.json
+E:\TTS\ProjectTTS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Application.dll
+E:\TTS\ProjectTTS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Application.pdb
+E:\TTS\ProjectTTS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Domain.dll
+E:\TTS\ProjectTTS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Domain.pdb
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.csproj.AssemblyReference.cache
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.AssemblyInfoInputs.cache
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.AssemblyInfo.cs
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.csproj.CoreCompileInputs.cache
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.sourcelink.json
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Appl.3451E0AD.Up2Date
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.dll
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\refint\LMS.Application.dll
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.pdb
+E:\TTS\ProjectTTS\LMS\LMS.Application\obj\Debug\net8.0\ref\LMS.Application.dll

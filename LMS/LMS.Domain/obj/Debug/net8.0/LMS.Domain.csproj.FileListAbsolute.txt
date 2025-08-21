@@ -1,0 +1,12 @@
+E:\TTS\ProjectTTS\LMS\LMS.Domain\bin\Debug\net8.0\LMS.Domain.deps.json
+E:\TTS\ProjectTTS\LMS\LMS.Domain\bin\Debug\net8.0\LMS.Domain.dll
+E:\TTS\ProjectTTS\LMS\LMS.Domain\bin\Debug\net8.0\LMS.Domain.pdb
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\LMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\LMS.Domain.AssemblyInfoInputs.cache
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\LMS.Domain.AssemblyInfo.cs
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\LMS.Domain.csproj.CoreCompileInputs.cache
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\LMS.Domain.sourcelink.json
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\LMS.Domain.dll
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\refint\LMS.Domain.dll
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\LMS.Domain.pdb
+E:\TTS\ProjectTTS\LMS\LMS.Domain\obj\Debug\net8.0\ref\LMS.Domain.dll
